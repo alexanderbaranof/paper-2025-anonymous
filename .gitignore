@@ -1,0 +1,4 @@
+raw_data/
+api_credentials.json
+processing_raw_data/
+*.Identifier
